@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Abhay Rawat, a final-year B.Tech student at NIT Kurukshetra specializing in Information Technology. My journey in tech is driven by a passion for creating transformative Full-Stack web applications, particularly those powered by Large Language Models (LLMs). I thrive on building seamless digital experiences that not only work but also inspire.
+Hello there! I'm Abhay Rawat, B.Tech from NIT Kurukshetra, specializing in Information Technology. My journey in tech is driven by a passion for creating transformative Full-Stack web applications, particularly those powered by Large Language Models (LLMs). I thrive on building seamless digital experiences that not only work but also inspire.
 
 My expertise extends beyond coding; I delve deeply into Data Science and Machine Learning, always pushing the boundaries of what’s possible. My unique blend of analytical severity and creative thinking allows me to tackle real-world problems with innovative solutions.
 
